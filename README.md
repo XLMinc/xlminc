@@ -1,74 +1,80 @@
-# XLM
+# 🚀 XLM — Le futur du réseau social éthique
 
-**XLM** est une entreprise de développement de réseaux sociaux que nous sommes en train de concevoir. C’est pour cela que nous sommes heureux de vous présenter le progrès.
+Bienvenue sur **XLMinc**, une initiative innovante qui redéfinit les réseaux sociaux en plaçant l’éthique, la créativité et la sécurité au cœur de l’expérience utilisateur.
 
 ---
 
 ## 🌍 Notre vision
 
-Nous créons un réseau social qui se base sur les principaux problèmes afin de les résoudre. Cela va intéresser une partie du public — nous en sommes conscients — mais avant tout, voici les fonctionnalités que nous proposons.
+Chez **XLM**, nous construisons un réseau social différent.  
+Notre objectif : **résoudre les problèmes majeurs des plateformes actuelles** — harcèlement, manque de vie privée, contenu toxique — tout en offrant une plateforme divertissante, fluide et moderne.
 
 ---
 
-## 🚀 Fonctionnalités
+## ⚙️ Fonctionnalités clés
 
-- 📹 **Vidéos courtes**  
-- 🏆 **Challenges**  
-- 📈 **Tendances (Trends)**  
-- 💬 **Messagerie**  
-- 🌟 **Discussions avec des influenceurs ou des stars**  
-- 👥 **Communautés**  
-- 🔴 **Vidéos en direct (Live)**
-
----
-
-### 🔐 Sécurité de la messagerie
-
-La messagerie sera **chiffrée de bout en bout** avec de nombreuses fonctionnalités :
-- GIFs
-- Emojis
-- Envoi d'argent
-- Et bien plus encore !
-
-Vous pourrez même **créer des groupes avec vos amis**.  
-> Cette fonctionnalité ne sera pas disponible au début et sera mise en place dès que nous aurons atteint **100 000 utilisateurs**.
+- 🎬 **Vidéos courtes dynamiques**  
+- 🏆 **Challenges communautaires mensuels**  
+- 📈 **Tendances (Trends)** générées par les utilisateurs  
+- 💬 **Messagerie chiffrée** avec GIFs, emojis, transferts d’argent  
+- 🌟 **Accès direct aux influenceurs et célébrités**  
+- 👥 **Systèmes de communautés et groupes privés**  
+- 🔴 **Vidéos en direct (Live)** interactives
 
 ---
 
-### 🔄 Challenges et tendances mensuelles
+## 🔐 Sécurité & confidentialité
 
-Des challenges et tendances **exclusifs**, proposés par **tous nos utilisateurs**, apparaîtront chaque mois sur XLM.
+Notre messagerie est **chiffrée de bout en bout**, avec des options avancées :  
+- Envoi sécurisé de contenu  
+- Groupes privés entre amis  
+- Transferts d'argent intégrés  
 
----
-
-### 🌐 Communautés avec influenceurs et stars
-
-- Discutez **en privé ou en groupe** avec des personnalités publiques.
-- Suivez **leurs déplacements** et **leurs publications**.
+> Déploiement progressif dès les **100 000 premiers utilisateurs** atteints.
 
 ---
 
-### 🎥 Vidéos en direct
+## 🔄 Challenges & tendances mensuelles
 
-Dans les vidéos courtes, vous pourrez aussi participer à des **lives** avec des personnes **du monde entier**.
-
----
-
-## 🧠 Une IA éthique contre le harcèlement
-
-XLM a été créé par un jeune ayant pour objectif de bâtir **le réseau social parfait**.
-
-> Mais bien que les réseaux sociaux soient amusants, il y a derrière cela des **dérives extrêmement dangereuses**.
-
-Nous voulons créer un réseau social **sans contenu nuisible**.  
-Les autres réseaux sociaux sont conscients que le harcèlement est en hausse. Ce phénomène est causé par des personnes **sans respect** pour autrui.
-
-Nous **ne sommes pas là pour censurer** ceux qui discutent ou qui sont en désaccord.  
-Mais **poster des contenus visant une personne**, visibles par le monde entier, est **inacceptable**.
+Chaque mois, la communauté propose et vote pour des **challenges exclusifs** qui génèrent des **trends viraux**. Une nouvelle forme de contenu participatif, sain et créatif.
 
 ---
 
-## 🤖 Une modération intelligente
+## 🌐 Communautés avec personnalités publiques
+
+- Dialoguez avec vos **stars préférées** en privé ou en groupe  
+- Suivez **leurs actus, déplacements, publications**
+
+---
+
+## 🎥 Vidéos en direct (Live)
+
+Des lives ouverts à tous, dans un espace **modéré, fluide et sécurisé**.  
+Participez à des échanges enrichissants avec des utilisateurs **du monde entier**.
+
+---
+
+## 🧠 Une IA éthique et protectrice
+
+Créé par un jeune développeur visionnaire, **XLMinc** intègre une IA dédiée à :  
+- Détecter et prévenir le **harcèlement**  
+- Protéger les utilisateurs sans censurer la liberté d'expression  
+- Supprimer les contenus nuisibles de façon **juste et transparente**
+
+> Chez XLM, **le respect passe avant tout**.
+
+---
+
+## 🔗 Liens utiles
+
+- 🔧 [Découvrir nos projets GitHub](https://github.com/XLMinc)  
+- 📫 Contact : tonemail@domaine.com  
+- 🌐 Site web (bientôt en ligne)
+
+---
+
+> #XLMinc #réseau_social #éthique #vie_privée #scroll #challenge #Flask #React #IA
+
 
 Nous développons une **intelligence artificielle** qui détectera et censurera :
 - les contenus nuisibles
