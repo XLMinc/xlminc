@@ -68,7 +68,6 @@ Créé par un jeune développeur visionnaire, **XLMinc** intègre une IA dédié
 ## 🔗 Liens utiles
 
 - 🔧 [Découvrir nos projets GitHub](https://github.com/XLMinc)  
-- 📫 Contact : tonemail@domaine.com  
 - 🌐 Site web (bientôt en ligne)
 
 ---
