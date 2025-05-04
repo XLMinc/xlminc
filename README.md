@@ -85,3 +85,4 @@ Elle transitera dans des **canaux sécurisés** que **personne ne pourra interce
 
 Alors ce progés croyer nous vaut bien plus que sa regoignez nous des que possible partager cette article et garder XLM dans un coins de votre tete nous tarvaillons dure pour creer un reseaux social pardait
 
+ Découvrez mon wiki [ici](https://github.com/XLMinc/xlminc/wiki)
